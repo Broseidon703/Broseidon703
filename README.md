@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Broseidon703
 - 👀 I’m interested in learning how to code and collaborate.
 - 🌱 I’m currently learning HTML/CSS/Javascript
-- 💞️ I’m looking to collaborate on anything I can get my hands on :P
-- 📫 I can be contacted via Github? lol I'm new.
+- 💞️ I’m looking to collaborate and learn
+- 📫 I can be contacted via Github.
 
 <!---
 Broseidon703/Broseidon703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
